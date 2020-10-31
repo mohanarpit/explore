@@ -1,5 +1,6 @@
 ---
 items:
+ - appsmithorg/appsmith
  - hasura/graphql-engine
  - openebs/openebs
  - chatwoot/chatwoot
